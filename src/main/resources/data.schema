@@ -1,0 +1,12 @@
+message 
+{
+  "type":"record",
+  "name":"tick",
+  "namespace":"org.mansourahmed.bigdata",
+  "fields":[
+    {"name":"date","type":"string"},
+    {"name":"time","type":"string"},
+    {"name":"bid","type":"double"},
+	{"name":"ask","type":"double"}
+  ]
+}
