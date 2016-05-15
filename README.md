@@ -1,2 +1,2 @@
-# spark-sandbox
-Spark/Hadoop sandbox
+# Spark example
+Example using Apache Spark to perform some data analsis
